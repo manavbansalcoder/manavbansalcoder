@@ -1,4 +1,4 @@
-<h1 align=>Hola!! 👋, I'm Manav Bansal</h1>
+<h1>Hola!!<img src = "https://media.tenor.com/images/aadee35242e901eb394dcf5680ba5acb/tenor.gif" width = "40" height = "40"/> I'm Manav Bansal </h1>
 <h2 align = "center"> Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador   Traveler | Foodie 
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
