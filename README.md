@@ -1,10 +1,10 @@
 <h1>Hola!!<img src = "https://media.tenor.com/images/aadee35242e901eb394dcf5680ba5acb/tenor.gif" width = "40" height = "40"/> I'm Manav Bansal </h1>
-<h2 align = "center"> Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador   Traveler | Foodie 
+<h2 align = "center"> Tech Enthusiast | Web Developer | Hackathons | Communities | Marketing | Ambassador | Traveler | Foodie 
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 </h2>
 
-<h3 align = "center">------------------------------ ABOUT ME ------------------------------</h3>
+<h3 align = "center"> ABOUT ME </h3>
 <p>
  <ul>
    <li>I am a Geeky kinda person who loves to explore this IT and Technology industry. I have a deep love for Gadgets and how they work. </li>
@@ -15,7 +15,7 @@
    <li>I like to travel to various kinds of places, loves to eat and hang out. </li>
 </p>
 
-<h3 align="center">---------------------- LANGUAGES AND TOOLS ----------------------</h3>
+<h3 align="center"> LANGUAGES AND TOOLS </h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" idth="60" height="60"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,7 +30,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavbansalcoder&layout=compact&theme=dark" /> <br><br>
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 </p>
-<h3 align="center">------------------------- CONNECT WITH ME -------------------------</h3>
+
+<h3 align="center"> CONNECT WITH ME </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/manavbansal11031998/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/manav_bansal_/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter"></a>&nbsp;&nbsp;&nbsp;
